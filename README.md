@@ -17,6 +17,7 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 ||||
 |---|---|---|
 | [🧱 RAG Basics Course](#rag-basics-course) | [🚀 RAG Toolkit](#rag-toolkit) | [🩸 RAG Survey Papers](#rag-survey-papers) | 
+| [✅ RAG Evaluation Course](#rag-evaluation-course) | | |
 
 ## RAG Basics Course
 | Topic | Description | Link |
@@ -33,6 +34,16 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 | Website RAG | RAG over a website implemented using LangChain framework. | [Link](RAG%20Basics/notebooks/Web_Page_RAG.ipynb)
 | YouTube Video RAG | RAG over a YouTube video transcript implemented using LangChain framework. | [Link](RAG%20Basics/notebooks/YouTube_Video_RAG.ipynb)
 | Agentic RAG | Agentic RAG system implemented using CrewAI framework. | [Link](RAG%20Basics/notebooks/AgenticRAG_with_CrewAI.ipynb)
+
+## RAG Evaluation Course
+| Topic | Description | Link |
+|---------|-------------|------|
+| RAG Evaluation Metrics Intro | Brief overview of RAG evaluation metrics  | [Link](RAG%20Evaluation/rag_eval_intro.md) | 
+| RAG Retriever Evaluation Metrics | Detailed explanation of RAG retriever evaluation metrics  | [Link](RAG%20Evaluation/rag_retriever_metrics.md) | 
+| RAG Generator Evaluation Metrics | Detailed explanation of RAG generator evaluation metrics | [Link](RAG%20Evaluation/rag_generator_metrics.md) |
+| RAG Evaluation with RAGAS | Implementation of RAG evaluation metrics with RAGAS library | [Link](RAG%20Evaluation/notebooks/RAG_Evaluation_using_RAGAS.ipynb) |
+| RAG Evaluation with DeepEval | Implementation of RAG evaluation metrics with DeepEval library | [Link](RAG%20Evaluation/notebooks/RAG_Evaluation_using_DeepEval.ipynb) |
+| Detect Hallucination in RAG | Detection of hallucination in RAG using LLMs and LettuceDetect library | [Link](RAG%20Evaluation/notebooks/Hallucination_RAG.ipynb) |
 
 
 ## RAG Toolkit
